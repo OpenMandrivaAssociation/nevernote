@@ -1,6 +1,7 @@
 Name:		nevernote
 Version:	0.99
 Release:	%mkrel 1
+Group:		Networking/Other
 Summary:	Evernote-clone. Use with Evernote to remember everything
 License:	GPLv2
 URL:		http://nevernote.sourceforge.net/
