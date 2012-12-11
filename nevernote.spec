@@ -41,3 +41,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_docdir}/%{name}
 %{_datadir}/applications/%{name}.desktop
 %{_datadir}/%{name}
+
+%changelog
+* Sat Sep 10 2011 Sergey Zhemoitel <serg@mandriva.org> 0.99-1
++ Revision: 699175
+- imported package nevernote
+
