@@ -4,7 +4,7 @@ Release:	2
 Group:		Networking/Other
 Summary:	Evernote-clone. Use with Evernote to remember everything
 License:	GPLv2
-URL:		http://nevernote.sourceforge.net/
+URL:		https://nevernote.sourceforge.net/
 Source:		%{name}-%{version}_i386.tar.gz
 Patch:		%{name}.desktop-ru.patch
 BuildRoot:	%{_tmppath}/%{name}-%{version}-build
